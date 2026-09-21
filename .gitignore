@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+*.env
+*.parquet
+*.npy
+*.csv
+*.tsv
+artifacts/wandb/
+docker-compose.yml
+*.pyc
+*.log
+*.db
+.virtual_documents/
+notebooks/wandb/
+notebooks/fe/AutogluonModels/
