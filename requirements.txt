@@ -1,0 +1,3 @@
+polars
+soundfile
+tqdm
