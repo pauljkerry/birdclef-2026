@@ -1,11 +1,13 @@
 __pycache__/
 .ipynb_checkpoints/
+.virtual_documents/
+
 input/
 artifacts/wandb/
-docker-compose.yml
-.virtual_documents/
 notebooks/wandb/
 notebooks/fe/AutogluonModels/
+
+docker-compose.yml
 
 *.zip
 *.pyc
